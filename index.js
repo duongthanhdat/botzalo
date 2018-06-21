@@ -7,8 +7,8 @@ const server = express();
 
 server.use('/public', express.static('public'));
 
-var oaid = '1187402161946668067';
-var secretKey = '5B2mFnLsEHRtoLI8C7lS';
+var oaid = '2394464290880636249';
+var secretKey = 'QMJVPGQXt4nLFKk3RVi3';
 
 var zaConfig = {
   oaid: oaid,
